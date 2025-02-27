@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/428ec1f9-f094-46b2-be86-a616f5b53d30/deploy-status)](https://app.netlify.com/sites/siva10x-astro-helloworld/deploys)
 # Astro Starter Kit: Minimal
 
 ```sh
